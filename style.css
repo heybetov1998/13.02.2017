@@ -1,0 +1,18 @@
+.main {
+    width: 100%;
+    height: auto;
+}
+
+img {
+    width: 100%;
+}
+
+.columns {
+    width: 33%;
+    height: 100%;
+    float: left;
+}
+
+.clearfix {
+    clear: both;
+}
